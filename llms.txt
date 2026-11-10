@@ -24,6 +24,9 @@
 - [Top Rated Plumber Vallejo: A Homeowner’s Guide](https://local-business-guides.github.io/wright-brothers-plumbing-and-gas-vallejo/top-rated-plumber-vallejo/): Top Rated Plumber Vallejo help with a clear plan for plumbing work. Speak with Wright Brothers Plumbing & Gas in Vallejo and call today for guidance.
 - [Licensed Plumber Vallejo: What to Check First](https://local-business-guides.github.io/wright-brothers-plumbing-and-gas-vallejo/licensed-plumber-vallejo/): Licensed Plumber Vallejo guidance to help you check credentials before work starts. Contact Wright Brothers Plumbing & Gas in Vallejo and call today.
 
+## Newsroom
+- [Wright Brothers Plumbing & Gas Shares Vallejo Plumber Guide in Several Formats](https://local-business-guides.github.io/wright-brothers-plumbing-and-gas-vallejo/news/2026-11-10-wright-brothers-plumbing-gas-shares-vallejo/): Wright Brothers Plumbing & Gas has published a Vallejo Plumber guide, with related video, podcast and audio versions available. (2026-11-10)
+
 ## Pages
 - [Vallejo Plumber in California](https://local-business-guides.github.io/wright-brothers-plumbing-and-gas-vallejo/): Get in touch with Wright Brothers Plumbing & Gas for plumbing help in Vallejo, with hours listed every day. Call +1707-549-0800.
 - [About & Contact Wright Brothers Plumbing & Gas](https://local-business-guides.github.io/wright-brothers-plumbing-and-gas-vallejo/about/): About Wright Brothers Plumbing & Gas, Vallejo.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/wright-brothers-plumbing-and-gas-vallejo/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/wright-brothers-plumbing-and-gas-vallejo/news/rss.xml)
 - [Main resource site](https://wright-brothers-plumbing-vallejo.localbusinesses1.chatgpt.site)
